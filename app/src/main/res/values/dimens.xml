@@ -1,0 +1,36 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="logo_w_h">100dp</dimen>
+
+    <dimen name="editTextMarginLeft"> 30dp</dimen>
+    <dimen name="editTextMarginRight"> 30dp</dimen>
+    <dimen name="editTextMarginTop"> 10dp</dimen>
+    <dimen name="editTextMarginBottom"> 10dp</dimen>
+    <dimen name="layoutMargin"> 15dp</dimen>
+    <dimen name="cardElevation">10dp</dimen>
+    <dimen name="cardPadding">5dp</dimen>
+    <dimen name="cardCornerRadius">4dp</dimen>
+    <dimen name="brandtitleSize">20dp</dimen>
+    <dimen name="toolbarelevation">5dp</dimen>
+    <dimen name="usericonsize">55dp</dimen>
+    <dimen name="usericonsPadding">5dp</dimen>
+    <dimen name="textusername">16dp</dimen>
+    <dimen name="textAddresSize">14dp</dimen>
+    <dimen name="textServiceSize">12dp</dimen>
+    <dimen name="viewHeight">0.5dp</dimen>
+    <dimen name="viewWidth">0.5dp</dimen>
+
+    <dimen name="row_layoutMargin">5dp</dimen>
+    <dimen name="linButtonPadding">5dp</dimen>
+    <dimen name="imagePadding">4dp</dimen>
+    <dimen name="iconSizeList">25dp</dimen>
+    <dimen name="addresspadding">1dp</dimen>
+    <dimen name="relMargin">8dp</dimen>
+    <dimen name="textServiceMargin">5dp</dimen>
+    <dimen name="listButtonMargin">5dp</dimen>
+
+    <dimen name="textSizeListOption">12dp</dimen>
+</resources>
